@@ -1,4 +1,4 @@
-• git clone https://github.com/Jonathan20021/kali-tools
+• git clone https://github.com/Jonathan20021/python-tools
 
 • cd kali-tools
 
