@@ -1,7 +1,7 @@
 • git clone https://github.com/Jonathan20021/python-tools
 
-• cd kali-tools
+• cd python-tools
 
-• chmod +x kali-tools.py
+• chmod +x python-tools.py
 
-• python3 kali-tools.py
+• python3 python-tools.py
